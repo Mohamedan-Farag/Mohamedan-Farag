@@ -9,7 +9,10 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 💻: I am a `Computer Science Second year ` from Faculty of Computers & Information at Suez canal University & EElu .
+- 🌱 I’m currently learning **Computer Science**
+- 🌱 I am a Junior at <a href = "https://www.eelu.edu.eg/en/" >
+   Faculty of Computers & Informatics at EELU & Suez Canal University </a>
+ - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - 📫 How to reach me **mohamad21-01132@student.eelu.edu.eg**
 - 🥳 Doing my best 
 
