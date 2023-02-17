@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamedan Elsayed abdou aly Farag</h1>
-<h3 align="center">I am an undergraduate student in my second year at the faculty of Computer since (IT) at EELU & Suez Canal University .
-I am a competitive programmer on multiple websites like codeforces, Atcoder, Leetcode, and Codechef .furthermore, I am knowledgeable in C++, C and Java programming languages.</h3>
+<h3 align="center">General Software enginner </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamedan-Farag&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamedan-Farag
 " />
@@ -10,9 +9,10 @@ I am a competitive programmer on multiple websites like codeforces, Atcoder, Lee
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohamedan-Farag](https://github.com/Mohamedan-Farag)
-
+- 💻: I am a `Computer Science Second year ` from Faculty of Computers & Information at Suez canal University & EElu .
 - 📫 How to reach me **mohamad21-01132@student.eelu.edu.eg**
+- 🥳 Doing my best 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
