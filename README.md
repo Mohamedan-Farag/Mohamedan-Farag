@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamedan Elsayed abdou aly Farag</h1>
 <h3 align="center">General Software enginner </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamedan-Farag&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamedan-Farag
-" />
-		   <img src="https://img.shields.io/github/followers/Mohamedan-Farag?label=Followers" alt="Mohamedan-Farag
-" />
+<p align="center"> 
+	<a href = "https://committers.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/Mohamedan-Farag" alt="Most Active Users" target="_blank" width=40%/> 
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Mohamedan-Farag" width=19.40%/>
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Mohamedan-Farag" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
 </p>
+
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
