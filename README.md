@@ -3,10 +3,10 @@
 </div>
 
 ### 🌱 About Me
-- 🎓 **Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University)[cite: 1].
-- 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications[cite: 1].
-- 🏆 **Competitive Programmer** active on Codeforces, AtCoder, LeetCode, and Hacker Cup[cite: 1].
-- 🤝 Active **Open Source Contributor** (GitLab & Hacktoberfest)[cite: 1].
+- 🎓 **Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University)].
+- 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications.
+- 🏆 **Competitive Programmer** active on Codeforces, AtCoder, LeetCode, and Hacker Cup.
+- 🤝 Active **Open Source Contributor** (GitLab & Hacktoberfest).
 
 <h3 align="left">🏆 Milestones & Achievements</h3>
 <p align="left">
