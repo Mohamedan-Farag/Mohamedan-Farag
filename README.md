@@ -3,12 +3,10 @@
 </div>
 
 ### 🌱 About Me
-- 🎓 **Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University).
-- 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications.
-- 🏆 **Competitive Programmer** active on Codeforces, AtCoder, LeetCode, and Hacker Cup.
-- 🤝 Active **Open Source Contributor** (GitLab & Hacktoberfest).
-
-### 💻 Milestones & Achievements
+- 🎓 **Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University)[cite: 1].
+- 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications[cite: 1].
+- 🏆 **Competitive Programmer** active on Codeforces, AtCoder, LeetCode, and Hacker Cup[cite: 1].
+- 🤝 Active **Open Source Contributor** (GitLab & Hacktoberfest)[cite: 1].
 
 <h3 align="left">🏆 Milestones & Achievements</h3>
 <p align="left">
@@ -31,23 +29,27 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025_Achiever-9C4668?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025" />
 </p>
 
+---
+
+<h3 align="center">📊 Codeforces Rating Stats</h3>
 <p align="center">
-  <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/El_Farag">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=El_Farag" alt="Codeforces Stats" />
   </a>
 </p>
 
+<h3 align="center">🏅 Holopin Achievement Board</h3>
 <p align="center">
-  <!-- Holopin Board -->
   <a href="https://holopin.io/@mohamedanfarag">
     <img src="https://holopin.me/mohamedanfarag" alt="Mohamed's Holopin board" />
   </a>
 </p>
 
+---
+
 <h3 align="left">🔗 Connect with me:</h3>
-**eng.mohamedabdo47@gmail.com**
 <p align="left">
+  <a href="mailto:eng.mohamedabdo47@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mohammeda-farag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://fb.com/mohamed frag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
