@@ -3,11 +3,10 @@
 </div>
 
 ### 🌱 About Me
-- 🎓 **Fresh Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University).
+- 🎓 **Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University).
 - 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications.
 - 🏆 **Competitive Programmer** active on Codeforces, AtCoder, LeetCode, and Hacker Cup.
 - 🤝 Active **Open Source Contributor** (GitLab & Hacktoberfest).
-- 📫 How to reach me: **eng.mohamedabdo47@gmail.com**
 
 ### 💻 Milestones & Achievements
 
@@ -47,9 +46,8 @@
 </p>
 
 <h3 align="left">🔗 Connect with me:</h3>
+**eng.mohamedabdo47@gmail.com**
 <p align="left">
   <a href="https://linkedin.com/in/mohammeda-farag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/El_Farag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/mohamedn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://fb.com/mohamed frag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
