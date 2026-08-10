@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?color=36BCF7&center=true&lines=Hi+there%2C+I'm+Mohamed+Farag+%F0%9F%91%8B;Backend+Engineer;Codeforces+Candidate+Master;Ranked+19th+in+the+ACPC;Hacktoberfest+2025+Achiever" alt="Typing SVG" />
 </div>
 
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" alt="Coding GIF"/>
-
 ### 🌱 About Me
 - 🎓 **Fresh Graduate** in Information Technology from Faculty of Computers & Informatics (EELU & Suez Canal University).
 - 👨‍💻 Passionate about **Backend Engineering**, System Design, and building highly scalable applications.
