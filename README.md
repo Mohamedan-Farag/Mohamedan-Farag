@@ -11,15 +11,37 @@
 
 ### 💻 Milestones & Achievements
 
-```bash
-mohamed@ubuntu:~$ whoami
-Mohamed Farag
+<h3 align="left">🏆 Milestones & Achievements</h3>
+<p align="left">
+  <!-- Codeforces -->
+  <img src="https://img.shields.io/badge/Codeforces-Candidate_Master-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  
+  <!-- ACPC -->
+  <img src="https://img.shields.io/badge/ACPC-Ranked_19th-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="ACPC" />
+  
+  <!-- IEEE Xtreme -->
+  <img src="https://img.shields.io/badge/IEEE_Xtreme_18.0-Ranked_25th_in_Egypt-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xtreme" />
+  
+  <!-- Meta Hacker Cup -->
+  <img src="https://img.shields.io/badge/Meta_Hacker_Cup-Round_2-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Hacker Cup" />
+  
+  <!-- GitLab -->
+  <img src="https://img.shields.io/badge/GitLab-Active_Contributor-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Contributor" />
+  
+  <!-- Hacktoberfest -->
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025_Achiever-9C4668?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025" />
+</p>
 
-mohamed@ubuntu:~$ ./show_achievements.sh
-[+] Codeforces: Candidate Master (3,000+ problems solved)
-[+] ACPC: Ranked 19th in the Africa and Arab Collegiate Programming Championship
-[+] IEEE Xtreme 18.0: Ranked 25th in Egypt & 606th Globally
-[+] Meta Hacker Cup: Advanced to Round 2
-[+] Open Source: Active contributor to GitLab & Hacktoberfest 2025 Achiever
-[+] Community: Trained 500+ students in competitive programming
-mohamed@ubuntu:~$ █
+<p align="center">
+  <!-- Codeforces Card -->
+  <a href="https://codeforces.com/profile/El_Farag">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=El_Farag" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Holopin Board -->
+  <a href="https://holopin.io/@mohamedanfarag">
+    <img src="https://holopin.me/mohamedanfarag" alt="Mohamed's Holopin board" />
+  </a>
+</p>
